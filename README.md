@@ -1,3 +1,3 @@
 # Deep-Neural-Network-Image-Classifier
 
-Image Classifier that classifies images of cats.
+Image Classifier(4 layer Neural Network) that classifies images of cats.
